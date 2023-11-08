@@ -25,7 +25,7 @@ namespace Presentacion4
                 else
                     Console.WriteLine("El valor 2 es mayor o igual al valor 1");
             }
-            else
+            else 
                 Console.WriteLine("Elvalor 1 es mayor que el valor 2");
             Console.ReadKey();
 
