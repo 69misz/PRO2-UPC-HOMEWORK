@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Presentacion5
 {
     class Program
-    {
+    { 
         static void Main(string[] args)
         {
             clsEmpleados empleado;

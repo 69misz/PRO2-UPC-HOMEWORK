@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Presentacion4
-{
+{ 
     public class clsEmpleados
     {
         Nombre ="";
