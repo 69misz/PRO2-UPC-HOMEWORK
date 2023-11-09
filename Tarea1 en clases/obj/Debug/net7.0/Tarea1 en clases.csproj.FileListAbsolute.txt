@@ -1,0 +1,14 @@
+D:\MSOTO\PRO2-UPC-HOMEWORK\Tarea1 en clases\bin\Debug\net7.0\Tarea1 en clases.exe
+D:\MSOTO\PRO2-UPC-HOMEWORK\Tarea1 en clases\bin\Debug\net7.0\Tarea1 en clases.deps.json
+D:\MSOTO\PRO2-UPC-HOMEWORK\Tarea1 en clases\bin\Debug\net7.0\Tarea1 en clases.runtimeconfig.json
+D:\MSOTO\PRO2-UPC-HOMEWORK\Tarea1 en clases\bin\Debug\net7.0\Tarea1 en clases.dll
+D:\MSOTO\PRO2-UPC-HOMEWORK\Tarea1 en clases\bin\Debug\net7.0\Tarea1 en clases.pdb
+D:\MSOTO\PRO2-UPC-HOMEWORK\Tarea1 en clases\obj\Debug\net7.0\Tarea1 en clases.GeneratedMSBuildEditorConfig.editorconfig
+D:\MSOTO\PRO2-UPC-HOMEWORK\Tarea1 en clases\obj\Debug\net7.0\Tarea1 en clases.AssemblyInfoInputs.cache
+D:\MSOTO\PRO2-UPC-HOMEWORK\Tarea1 en clases\obj\Debug\net7.0\Tarea1 en clases.AssemblyInfo.cs
+D:\MSOTO\PRO2-UPC-HOMEWORK\Tarea1 en clases\obj\Debug\net7.0\Tarea1 en clases.csproj.CoreCompileInputs.cache
+D:\MSOTO\PRO2-UPC-HOMEWORK\Tarea1 en clases\obj\Debug\net7.0\Tarea1 en clases.dll
+D:\MSOTO\PRO2-UPC-HOMEWORK\Tarea1 en clases\obj\Debug\net7.0\refint\Tarea1 en clases.dll
+D:\MSOTO\PRO2-UPC-HOMEWORK\Tarea1 en clases\obj\Debug\net7.0\Tarea1 en clases.pdb
+D:\MSOTO\PRO2-UPC-HOMEWORK\Tarea1 en clases\obj\Debug\net7.0\Tarea1 en clases.genruntimeconfig.cache
+D:\MSOTO\PRO2-UPC-HOMEWORK\Tarea1 en clases\obj\Debug\net7.0\ref\Tarea1 en clases.dll
