@@ -1,0 +1,14 @@
+D:\MSOTO\PRO2-UPC-HOMEWORK\Actividad 8\bin\Debug\net7.0\Actividad 8.exe
+D:\MSOTO\PRO2-UPC-HOMEWORK\Actividad 8\bin\Debug\net7.0\Actividad 8.deps.json
+D:\MSOTO\PRO2-UPC-HOMEWORK\Actividad 8\bin\Debug\net7.0\Actividad 8.runtimeconfig.json
+D:\MSOTO\PRO2-UPC-HOMEWORK\Actividad 8\bin\Debug\net7.0\Actividad 8.dll
+D:\MSOTO\PRO2-UPC-HOMEWORK\Actividad 8\bin\Debug\net7.0\Actividad 8.pdb
+D:\MSOTO\PRO2-UPC-HOMEWORK\Actividad 8\obj\Debug\net7.0\Actividad 8.GeneratedMSBuildEditorConfig.editorconfig
+D:\MSOTO\PRO2-UPC-HOMEWORK\Actividad 8\obj\Debug\net7.0\Actividad 8.AssemblyInfoInputs.cache
+D:\MSOTO\PRO2-UPC-HOMEWORK\Actividad 8\obj\Debug\net7.0\Actividad 8.AssemblyInfo.cs
+D:\MSOTO\PRO2-UPC-HOMEWORK\Actividad 8\obj\Debug\net7.0\Actividad 8.csproj.CoreCompileInputs.cache
+D:\MSOTO\PRO2-UPC-HOMEWORK\Actividad 8\obj\Debug\net7.0\Actividad 8.dll
+D:\MSOTO\PRO2-UPC-HOMEWORK\Actividad 8\obj\Debug\net7.0\refint\Actividad 8.dll
+D:\MSOTO\PRO2-UPC-HOMEWORK\Actividad 8\obj\Debug\net7.0\Actividad 8.pdb
+D:\MSOTO\PRO2-UPC-HOMEWORK\Actividad 8\obj\Debug\net7.0\Actividad 8.genruntimeconfig.cache
+D:\MSOTO\PRO2-UPC-HOMEWORK\Actividad 8\obj\Debug\net7.0\ref\Actividad 8.dll
